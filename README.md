@@ -1,3 +1,3 @@
-# Game-Of-Life-Project
-
-## Going to start using github more and reserve this repo for my Life board game recreation with C++
+# Game-Of-Life-Project!
+## This is a recreation of the board game: Life.
+## Further instructions will be provided in version-respected directories.
