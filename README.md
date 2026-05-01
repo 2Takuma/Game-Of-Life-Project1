@@ -35,12 +35,12 @@ Minimum compiler versions:
 
 Compile manually (if not using an IDE):
 ```bash
-g++ -std=c++17 main.cpp -o game
+g++ -std=c++17 Life.cpp -o game
 ```
 
 ### 5. Run the Game
 - Open the project folder in your IDE  
-- Run `main.cpp`  
+- Run `Life.cpp`  
 - The game will start in the terminal  
 
 ### 6. Play!
