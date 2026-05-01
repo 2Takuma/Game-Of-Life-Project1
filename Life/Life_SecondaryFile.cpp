@@ -1,12 +1,3 @@
-/* 
- * File:   GameOfLifeV2_SecondaryFile.cpp
- * Author: Keanu Arao
- * Created on May 24th 2025 11:29 PM
- * Purpose:  Create the binary files for the GameOfLife_V2 program to read.
- *           This program is very need alongside the manual set ups in
- *              the header files to setup/fix/edit the binary files.
- */
-
 #include <iostream>
 #include <string> // Strings
 #include <ctime> // Time for rand

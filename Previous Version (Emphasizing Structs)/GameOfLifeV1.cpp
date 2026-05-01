@@ -1,8 +1,3 @@
-/* File:   GameOfLifeV1.cpp
- * Author: Keanu Arao
- * Created on April 2nd 2025 11:01 PM
- * Purpose:  Recreate the game of "Life" board game
- */
 //System Libraries
 #include <iostream>  //I/O Library
 #include <string> // Strings

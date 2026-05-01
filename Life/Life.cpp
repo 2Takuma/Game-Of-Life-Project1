@@ -1,11 +1,3 @@
-/* 
- * File:   GameOfLifeV2.cpp
- * Author: Keanu Arao
- * Created on May 12 2025 12:01 AM
- * Purpose:  Recreate the board game "Life" in C++ with an emphasis on classes
- *          Implement "Would you like to see your cards" function 
- */
-
 //Include statements
 #include <iostream>
 #include <string> // Strings
