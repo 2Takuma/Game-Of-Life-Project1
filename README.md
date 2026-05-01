@@ -87,7 +87,3 @@ _Add screenshots or GIFs of gameplay here_
 - C++ Class abstraction and polymorphism, operator overloading, enum structs, binary file reading and writing
 - Game logic design  
 - File organization and modular programming  
-
----
-
-## 📜 License
