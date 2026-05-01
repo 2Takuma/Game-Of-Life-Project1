@@ -91,9 +91,3 @@ _Add screenshots or GIFs of gameplay here_
 ---
 
 ## 📜 License
-
----
-
-## 🤝 Contributing (Optional)
-Contributions are welcome!  
-Feel free to fork this repo and submit a pull request.
